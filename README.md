@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineering student** (1st year of college) and an aspiring **Full-stack Developer**. At **16 years old**, I am deeply immersed in the world of technology, from building modern user interfaces to configuring robust server infrastructures.
+I am a **Software Engineering student** and an aspiring **Full-stack Developer**. At **16 years old**, I am deeply immersed in the world of technology, from building modern user interfaces to configuring robust server infrastructures.
 
 * 🚀 Passionate about **Web Development**, creating fast and responsive digital experiences.
 * 🛠 Actively exploring **DevOps** practices and workflow automation.
