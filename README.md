@@ -16,7 +16,6 @@ I am a **Software Engineering student** and an aspiring **Full-stack Developer**
 * 🚀 Passionate about **Web Development**, creating fast and responsive digital experiences.
 * 🛠 Actively exploring **DevOps** practices and workflow automation.
 * 🐧 **Linux** is my comfort zone for **System Administration** and server management.
-* 🎓 Constantly learning new technologies through college and hands-on side projects.
 
 ---
 
