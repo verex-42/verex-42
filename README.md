@@ -4,6 +4,7 @@
   <a href="https://darkvein.ru"><img src="https://img.shields.io/badge/WEB-darkvein.ru-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://t.me/ValeR4ikon"><img src="https://img.shields.io/badge/TELEGRAM-Contact-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:alimurad.dzf@outlook.com"><img src="https://img.shields.io/badge/EMAIL-Write%20Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199818826220/"><img src="https://img.shields.io/badge/STEAM-171a21?style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 
 ---
